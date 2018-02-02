@@ -1,17 +1,17 @@
 # Site Info
-title:              "c-a-parth"
-description:        "commit algorithm party"
+title:              "Commit Al - Party"
+description:        "hello??"
 #google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 #google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        'JONG HOON PARK' # Your name here
-author_email:       wecube.1@gmail.com # Your email here
+author_name:        'Ramsey Moon' # Your name here
+author_email:       gongbang2@naver.com # Your email here
 author_gravatar:    f24685c9a69bf27342f45f3c14d8457d # Your Gravatar md5 hash here for logo
-github_username:    Choonick # Your GitHub username here
+github_username:    Ramsey moon # Your GitHub username here
 
 # Site Settings
-url:                https://Choonick.github.io # main url
+url:                https://SeongukRamseyMoon.github.io # main url
 baseurl:            # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
