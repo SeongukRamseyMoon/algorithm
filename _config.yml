@@ -11,7 +11,7 @@ author_gravatar:    f24685c9a69bf27342f45f3c14d8457d # Your Gravatar md5 hash he
 github_username:    Ramsey moon # Your GitHub username here
 
 # Site Settings
-url:                https://SeongukRamseyMoon.github.io # main url
+url:                https://seongukramseymoon.github.io # main url
 baseurl:            # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
